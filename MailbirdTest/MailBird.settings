@@ -1,0 +1,23 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MailbirdTest" GeneratedClassName="MailBird">
+  <Profiles />
+  <Settings>
+    <Setting Name="SupportedHosts" Type="System.String" Scope="User">
+      <Value Profile="(Default)">[{
+"provider":"Gmail",
+"url":"mail.google.com"
+},
+{
+"provider":"Yahoo",
+"url":"mail.google.com"
+},
+{
+"provider":MSN",
+"url":"mail.google.com"
+}]</Value>
+    </Setting>
+    <Setting Name="MaxConnectionPerHost" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

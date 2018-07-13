@@ -1,0 +1,11 @@
+C:\Projects\MailbirdTest\MailbirdTest\Mailbird.Common\bin\Debug\Mailbird.Common.dll
+C:\Projects\MailbirdTest\MailbirdTest\Mailbird.Common\bin\Debug\Mailbird.Common.pdb
+C:\Projects\MailbirdTest\MailbirdTest\Mailbird.Common\obj\Debug\Mailbird.Common.dll
+C:\Projects\MailbirdTest\MailbirdTest\Mailbird.Common\obj\Debug\Mailbird.Common.pdb
+C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\Mailbird.Common\bin\Debug\Mailbird.Common.dll
+C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\Mailbird.Common\bin\Debug\Mailbird.Common.pdb
+C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\Mailbird.Common\obj\Debug\Mailbird.Common.csproj.CoreCompileInputs.cache
+C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\Mailbird.Common\obj\Debug\Mailbird.Common.dll
+C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\Mailbird.Common\obj\Debug\Mailbird.Common.pdb
+C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\Mailbird.Common\bin\Debug\Mail.dll
+C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\Mailbird.Common\bin\Debug\Mail.xml
