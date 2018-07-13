@@ -12,7 +12,6 @@ namespace MailbirdTest
     {
         private Lazy<LoginWindow> _loginWindowLazy;
         private Lazy<MainWindow> _mainWindowLazy;
-        
 
         public WindowsManager()
         {
@@ -42,6 +41,15 @@ namespace MailbirdTest
                 _mainWindowLazy = new Lazy<MainWindow>(LazyThreadSafetyMode.PublicationOnly);
             }
             return _mainWindowLazy.Value;
+        }
+
+        public void CloseLoginWindow()
+        {
+            _loginWindowLazy.Value.Close();
+        }
+        public void CloseMainWindow()
+        {
+            _mainWindowLazy.Value.Close();
         }
     }
 }

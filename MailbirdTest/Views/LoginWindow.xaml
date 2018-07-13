@@ -5,8 +5,28 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MailbirdTest.Views"
         mc:Ignorable="d"
-        Title="LoginWindow" Height="300" Width="300">
+        WindowStyle="None"
+        BorderBrush="Blue" BorderThickness="2,2,2,2"
+        Title="LoginWindow" Height="300" Width="350">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="58"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Image Source="/Images/logo.png" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" Margin="2"></Image>
+        <TextBox Text="{Binding UserName}" Grid.Row="1" Grid.Column="2" Height="32" VerticalAlignment="Bottom" BorderBrush="Blue" BorderThickness="0,0,0,1" Margin="0,0,0,5" ></TextBox>
+        <TextBox Text="{Binding Password}" Grid.Row="2" Grid.Column="2" Height="32" VerticalAlignment="Bottom" BorderBrush="Blue" BorderThickness="0,0,0,1" Margin="0,0,0,5" ></TextBox>
+        <StackPanel Grid.Row="3" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,0,5,0">
+            <Button Content="Login" Command="{Binding CommandButton}" Width="100" Height="32"></Button>
+            <Button Content="Cancel" Command="{Binding CancelCommand}" Width="100" Height="32" Margin="5,0,0,0"></Button>
+        </StackPanel>
+        <Image Source="/Images/user.png" Grid.Row="1" Grid.Column="0" Height="42"></Image>
+        <Image Source="/Images/key.png" Grid.Row="2" Grid.Column="0" Height="42"></Image>
     </Grid>
 </Window>

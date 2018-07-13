@@ -47,13 +47,16 @@
     <Compile Include="ApplicationEnums.cs" />
     <Compile Include="ApplicationHelpers.cs" />
     <Compile Include="BaseClasses\BaseNotificationClass.cs" />
+    <Compile Include="Interfaces\IMailBirdEmail.cs" />
+    <Compile Include="Interfaces\IMailBirdFolder.cs" />
     <Compile Include="Interfaces\IMailDownloader.cs" />
-    <Compile Include="ModelClasses\EmailClass.cs" />
-    <Compile Include="ModelClasses\MailBirdFolder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CommonClasses\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

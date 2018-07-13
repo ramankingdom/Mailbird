@@ -23,3 +23,15 @@ C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\MailbirdTestingConsole\
 C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\MailbirdTestingConsole\obj\Debug\MailbirdTestingConsole.exe
 C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\MailbirdTestingConsole\obj\Debug\MailbirdTestingConsole.pdb
 C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\MailbirdTestingConsole\bin\Debug\Mail.dll
+C:\projects\Mailbird\Mailbird\MailbirdTestingConsole\bin\Debug\MailbirdTestingConsole.exe.config
+C:\projects\Mailbird\Mailbird\MailbirdTestingConsole\bin\Debug\MailbirdTestingConsole.exe
+C:\projects\Mailbird\Mailbird\MailbirdTestingConsole\bin\Debug\MailbirdTestingConsole.pdb
+C:\projects\Mailbird\Mailbird\MailbirdTestingConsole\bin\Debug\Mail.dll
+C:\projects\Mailbird\Mailbird\MailbirdTestingConsole\bin\Debug\Mailbird.Common.dll
+C:\projects\Mailbird\Mailbird\MailbirdTestingConsole\bin\Debug\Mailbird.Core.dll
+C:\projects\Mailbird\Mailbird\MailbirdTestingConsole\bin\Debug\Mailbird.Common.pdb
+C:\projects\Mailbird\Mailbird\MailbirdTestingConsole\bin\Debug\Mailbird.Core.pdb
+C:\projects\Mailbird\Mailbird\MailbirdTestingConsole\bin\Debug\Mail.xml
+C:\projects\Mailbird\Mailbird\MailbirdTestingConsole\obj\Debug\MailbirdTestingConsole.csprojResolveAssemblyReference.cache
+C:\projects\Mailbird\Mailbird\MailbirdTestingConsole\obj\Debug\MailbirdTestingConsole.exe
+C:\projects\Mailbird\Mailbird\MailbirdTestingConsole\obj\Debug\MailbirdTestingConsole.pdb

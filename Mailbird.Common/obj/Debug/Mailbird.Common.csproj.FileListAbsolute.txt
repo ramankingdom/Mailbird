@@ -9,3 +9,10 @@ C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\Mailbird.Common\obj\Deb
 C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\Mailbird.Common\obj\Debug\Mailbird.Common.pdb
 C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\Mailbird.Common\bin\Debug\Mail.dll
 C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\Mailbird.Common\bin\Debug\Mail.xml
+C:\projects\Mailbird\Mailbird\Mailbird.Common\obj\Debug\Mailbird.Common.csprojResolveAssemblyReference.cache
+C:\projects\Mailbird\Mailbird\Mailbird.Common\obj\Debug\Mailbird.Common.dll
+C:\projects\Mailbird\Mailbird\Mailbird.Common\obj\Debug\Mailbird.Common.pdb
+C:\projects\Mailbird\Mailbird\Mailbird.Common\bin\Debug\Mailbird.Common.dll
+C:\projects\Mailbird\Mailbird\Mailbird.Common\bin\Debug\Mailbird.Common.pdb
+C:\projects\Mailbird\Mailbird\Mailbird.Common\bin\Debug\Mail.dll
+C:\projects\Mailbird\Mailbird\Mailbird.Common\bin\Debug\Mail.xml

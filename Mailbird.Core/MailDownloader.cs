@@ -1,5 +1,4 @@
 ﻿using Mailbird.Common.Interfaces;
-using Mailbird.Common.ModelClasses;
 using MailBird.Core;
 using System;
 using System.Collections.Concurrent;
@@ -12,21 +11,21 @@ namespace Mailbird.Core
 {
     public class MailDownloader : IMailDownloader
     {
-        private ConcurrentQueue<MailBirdEmail> _workItems;
+        private ConcurrentQueue<IMailBirdEmail> _workItems;
 
-        public  event EventHandler<MailBirdEmail> EmailDownloaded;
+        public  event EventHandler<IMailBirdEmail> EmailDownloaded;
 
         public MailDownloader()
         {
-            _workItems = new ConcurrentQueue<MailBirdEmail>();
+            _workItems = new ConcurrentQueue<IMailBirdEmail>();
         }
 
-        public void AddWork(MailBirdEmail email)
+        public void AddWork(IMailBirdEmail email)
         {
             _workItems.Enqueue(email);
         }
 
-        private void DownloadEmail(MailBirdEmail email)
+        private void DownloadEmail(IMailBirdEmail email)
         {
             CustomClient client;
             if (MailConnectionManager.TryGetClient(out client))
@@ -41,7 +40,7 @@ namespace Mailbird.Core
 
         private void Process()
         {
-            MailBirdEmail email;
+            IMailBirdEmail email;
             _workItems.TryDequeue(out email);
             if (email != null && !email.isBodyDownloaded)
             {

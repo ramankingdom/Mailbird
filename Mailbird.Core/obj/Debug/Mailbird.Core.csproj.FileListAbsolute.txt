@@ -17,3 +17,12 @@ C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\Mailbird.Core\obj\Debug
 C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\Mailbird.Core\obj\Debug\Mailbird.Core.dll
 C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\Mailbird.Core\obj\Debug\Mailbird.Core.pdb
 C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\Mailbird.Core\bin\Debug\Mail.dll
+C:\projects\Mailbird\Mailbird\Mailbird.Core\bin\Debug\Mailbird.Core.dll
+C:\projects\Mailbird\Mailbird\Mailbird.Core\bin\Debug\Mailbird.Core.pdb
+C:\projects\Mailbird\Mailbird\Mailbird.Core\bin\Debug\Mail.dll
+C:\projects\Mailbird\Mailbird\Mailbird.Core\bin\Debug\Mailbird.Common.dll
+C:\projects\Mailbird\Mailbird\Mailbird.Core\bin\Debug\Mailbird.Common.pdb
+C:\projects\Mailbird\Mailbird\Mailbird.Core\bin\Debug\Mail.xml
+C:\projects\Mailbird\Mailbird\Mailbird.Core\obj\Debug\Mailbird.Core.csprojResolveAssemblyReference.cache
+C:\projects\Mailbird\Mailbird\Mailbird.Core\obj\Debug\Mailbird.Core.dll
+C:\projects\Mailbird\Mailbird\Mailbird.Core\obj\Debug\Mailbird.Core.pdb

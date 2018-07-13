@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\MailbirdTest\obj\Debug\
+C:\projects\Mailbird\Mailbird\MailbirdTest\obj\Debug\
 MailbirdTest
 none
 false
 DEBUG;TRACE
-C:\StackOverflow\MailbirdTest-master\MailbirdTest-master\MailbirdTest\App.xaml
+C:\projects\Mailbird\Mailbird\MailbirdTest\App.xaml
 6-767782156
 
-16-1823294597
-72-1119328898
+201972575286
+72-2106362041
 Views\LoginWindow.xaml;Views\MainWindow.xaml;Resources\Resources.xaml;Controls\EmailBodyViewer.xaml;Controls\EmailHeadesViewer.xaml;Controls\FolderView.xaml;
 
 False

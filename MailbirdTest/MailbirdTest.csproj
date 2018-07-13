@@ -86,11 +86,15 @@
     <Compile Include="Controls\FolderView.xaml.cs">
       <DependentUpon>FolderView.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Interfaces\ISecuredPassword.cs" />
     <Compile Include="MailBird.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
       <DependentUpon>MailBird.settings</DependentUpon>
     </Compile>
+    <Compile Include="Model\EmailClass.cs" />
+    <Compile Include="Model\MailBirdFolder.cs" />
+    <Compile Include="ViewModel\LoginViewModel.cs" />
     <Compile Include="ViewModel\MainViewModel.cs" />
     <Compile Include="Views\LoginWindow.xaml.cs">
       <DependentUpon>LoginWindow.xaml</DependentUpon>
@@ -161,9 +165,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Model\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <ProjectReference Include="..\Mailbird.Common\Mailbird.Common.csproj">
       <Project>{4CCB0899-0936-4E6C-AC51-8287BA1F5379}</Project>
@@ -173,6 +175,11 @@
       <Project>{F5A835B7-F1B5-448A-A0D5-562F8791A779}</Project>
       <Name>Mailbird.Core</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\key.png" />
+    <Resource Include="Images\logo.png" />
+    <Resource Include="Images\user.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
